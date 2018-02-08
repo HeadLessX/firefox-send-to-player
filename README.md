@@ -11,6 +11,8 @@ This version rewrote the whole server management part of the plugin, adding supp
 
 Version 3.0 is a complete rewrite of the extension into a WebExtension, granting compatibility with Firefox 57.
 
+.xpi file is unsigned - this is just quick try to add VLC (works right now :) ).
+
 ## Setup XBMC/Kodi
 Under System -> Services: 
  * Web Server -> Make sure it's enabled and a password is set 
